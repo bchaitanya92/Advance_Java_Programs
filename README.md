@@ -48,22 +48,22 @@ Advance_Java_Programs/
 | Chapter-03 | Data Types, Variables, and Arrays | Area.java, Array.java, Matrix.java, VarDemo.java |
 | Chapter-04 | Operators | BasicMath.java, BitLogic.java, Ternary.java |
 | Chapter-05 | Control Statements | Break.java, ForEach.java, IfElse.java, Switch.java |
-| Chapter-06 | Classes Basics |  |
-| Chapter-07 | Methods and Classes Detailed |  |
-| Chapter-08 | Inheritance |  |
-| Chapter-09 | Packages and Interfaces |  |
-| Chapter-10 | Exception Handling |  |
-| Chapter-11 | Multithreaded Programming |  |
-| Chapter-12 | Enumerations, Autoboxing, and Annotations |  |
-| Chapter-13 | Generics |  |
-| Chapter-14 | Lambda Expressions |  |
-| Chapter-15 | Modules |  |
-| Chapter-16 | String Handling |  |
-| Chapter-17 | Exploring java.lang |  |
-| Chapter-18 | java.util Part 1 |  |
-| Chapter-19 | java.util Part 2 |  |
-| Chapter-20 | java.util Part 3 |  |
-| Chapter-21 | Input/Output |  |
+| Chapter-06 | Classes Basics | Box.java, Stack.java, BoxDemo.java |
+| Chapter-07 | Methods and Classes Detailed | OverloadDemo.java, Recursion.java, StaticByName.java, VarArgs.java |
+| Chapter-08 | Inheritance | BoxWeight.java, SimpleInheritance.java, Override.java, AbstractAreas.java |
+| Chapter-09 | Packages and Interfaces | IFTest.java, MyIF.java, DefaultMethodDemo.java, p1/ |
+| Chapter-10 | Exception Handling | Exc0.java, FinallyDemo.java, ThrowDemo.java, MyException.java |
+| Chapter-11 | Multithreaded Programming | ThreadDemo.java, MultiThreadDemo.java, Synch.java, Deadlock.java |
+| Chapter-12 | Enumerations, Autoboxing, and Annotations | EnumDemo.java, AutoBox.java, Meta.java, Marker.java |
+| Chapter-13 | Generics | GenDemo.java, NonGenDemo.java, Stats.java, WildcardDemo.java |
+| Chapter-14 | Lambda Expressions | LambdaDemo.java, MethodRefDemo.java, UseFunctionInterfaceDemo.java, BlockLambdaDemo.java |
+| Chapter-15 | Modules | Contains module examples in subdirectories |
+| Chapter-16 | String Handling | MakeString.java, StringBufferDemo.java, equalsDemo.java, SortString.java |
+| Chapter-17 | Exploring java.lang | CloneDemo.java, MathDemo.java, ThreadGroupDemo.java |
+| Chapter-18 | java.util Part 1 | ArrayListDemo.java, HashMapDemo.java, IteratorDemo.java, TreeSetDemo.java |
+| Chapter-19 | java.util Part 2 | BitSetDemo.java, DateDemo.java, CalendarDemo.java, GregorianCalendarDemo.java |
+| Chapter-20 | java.util Part 3 | ResourceBundle examples, formatting demos |
+| Chapter-21 | Input/Output | File I/O examples, Scanner demos, formatting output |
 
 ---
 
@@ -132,14 +132,12 @@ Replace `Chapter-02/src/Example.java` with the path to any file you want to run.
 ## 👨‍💻 Author & Credits
 
 <p>
-
-<b>Developed by:</b> <b>B. Chaitanya</b> <br>
-<i><b>Basic DSA & Programming in C</b></i> <br>
-<br>
-<b>GitHub:</b> <a href="https://github.com/bchaitanya92">bchaitanya92</a> <br>
-<b>LinkedIn:</b> <a href="https://www.linkedin.com/in/b-chaitanya">BOURISETTI CHAITANYA</a> <br>
-
-<hr style="border:0.5px solid #ccc; width:70%;"> <b>Reference Book Author:</b> <br> <b>Herbert Schildt</b> <br> <i><b>Java: The Complete Reference, 12th Edition</b></i> <br> </p>
+  <b>Book Author:</b> <br>
+  <b>Herbert Schildt</b> <br>
+  <i><b>Java: The Complete Reference, 12th Edition</b></i> <br>
+  <br>
+  <b>GitHub Source:</b> <a href="https://github.com/sudouser777/Java-The-Complete-Reference-12th-Edition-Source-Code">sudouser777 Repository</a> <br>
+</p>
 
 <p align="center">
   <i>Feel free to explore, modify, and experiment with the programs for learning, assignments, or your own projects!<br>
